@@ -1,0 +1,420 @@
+C:\Users\shehab55\Desktop\orderla\orderla\bin\Debug\orderla.exe.config
+C:\Users\shehab55\Desktop\orderla\orderla\bin\Debug\orderla.exe
+C:\Users\shehab55\Desktop\orderla\orderla\bin\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\orderla\orderla\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\shehab55\Desktop\orderla\orderla\bin\Debug\Bunifu.Core.dll
+C:\Users\shehab55\Desktop\orderla\orderla\obj\Debug\orderla.Form1.resources
+C:\Users\shehab55\Desktop\orderla\orderla\obj\Debug\orderla.newacc1.resources
+C:\Users\shehab55\Desktop\orderla\orderla\obj\Debug\orderla.newacc2.resources
+C:\Users\shehab55\Desktop\orderla\orderla\obj\Debug\orderla.Properties.Resources.resources
+C:\Users\shehab55\Desktop\orderla\orderla\obj\Debug\orderla.success.resources
+C:\Users\shehab55\Desktop\orderla\orderla\obj\Debug\orderla.userlogin.resources
+C:\Users\shehab55\Desktop\orderla\orderla\obj\Debug\orderla.csproj.GenerateResource.Cache
+C:\Users\shehab55\Desktop\orderla\orderla\obj\Debug\orderla.exe
+C:\Users\shehab55\Desktop\orderla\orderla\obj\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\orderla\orderla\obj\Debug\orderla.csprojResolveAssemblyReference.cache
+C:\Users\shehab55\Desktop\orderla\orderla\obj\Debug\orderla.lost.resources
+C:\Users\shehab55\Desktop\orderla\orderla\obj\Debug\orderla.reverse.resources
+C:\Users\shehab55\Desktop\orderla\orderla\obj\Debug\orderla.userlogin2.resources
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\bin\Debug\orderla.exe.config
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\bin\Debug\orderla.exe
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\bin\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\bin\Debug\Bunifu.Core.dll
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\obj\Debug\orderla.csprojAssemblyReference.cache
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\obj\Debug\orderla.Form1.resources
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\obj\Debug\orderla.lost.resources
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\obj\Debug\orderla.newacc1.resources
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\obj\Debug\orderla.newacc2.resources
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\obj\Debug\orderla.Properties.Resources.resources
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\obj\Debug\orderla.reverse.resources
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\obj\Debug\orderla.success.resources
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\obj\Debug\orderla.userform.resources
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\obj\Debug\orderla.userlogin.resources
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\obj\Debug\orderla.userlogin2.resources
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\obj\Debug\orderla.csproj.GenerateResource.cache
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\obj\Debug\orderla.csproj.CoreCompileInputs.cache
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\obj\Debug\orderla.csproj.CopyComplete
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\obj\Debug\orderla.exe
+C:\Users\shehab55\Desktop\orderla\backup1\orderla\orderla\obj\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\bin\Debug\orderla.exe.config
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\bin\Debug\orderla.exe
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\bin\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\bin\Debug\Bunifu.Core.dll
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\obj\Debug\orderla.csprojAssemblyReference.cache
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\obj\Debug\orderla.Form1.resources
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\obj\Debug\orderla.lost.resources
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\obj\Debug\orderla.newacc1.resources
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\obj\Debug\orderla.newacc2.resources
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\obj\Debug\orderla.Properties.Resources.resources
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\obj\Debug\orderla.reverse.resources
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\obj\Debug\orderla.success.resources
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\obj\Debug\orderla.userform.resources
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\obj\Debug\orderla.userlogin.resources
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\obj\Debug\orderla.userlogin2.resources
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\obj\Debug\orderla.csproj.GenerateResource.cache
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\obj\Debug\orderla.csproj.CoreCompileInputs.cache
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\obj\Debug\orderla.csproj.CopyComplete
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\obj\Debug\orderla.exe
+C:\Users\shehab55\Desktop\backup1\backup1\orderla\orderla\obj\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\bin\Debug\orderla.exe.config
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\bin\Debug\orderla.exe
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\bin\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\bin\Debug\Bunifu.Core.dll
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\obj\Debug\orderla.csprojAssemblyReference.cache
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\obj\Debug\orderla.Form1.resources
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\obj\Debug\orderla.lost.resources
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\obj\Debug\orderla.newacc1.resources
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\obj\Debug\orderla.newacc2.resources
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\obj\Debug\orderla.Properties.Resources.resources
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\obj\Debug\orderla.reverse.resources
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\obj\Debug\orderla.success.resources
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\obj\Debug\orderla.userform.resources
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\obj\Debug\orderla.userlogin.resources
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\obj\Debug\orderla.userlogin2.resources
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\obj\Debug\orderla.csproj.GenerateResource.cache
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\obj\Debug\orderla.csproj.CoreCompileInputs.cache
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\obj\Debug\orderla.csproj.CopyComplete
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\obj\Debug\orderla.exe
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\obj\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\Orderla v1\orderla\orderla\obj\Debug\orderla.userhome.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\bin\Debug\orderla.exe.config
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\bin\Debug\orderla.exe
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\bin\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.Form1.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.lost.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.newacc1.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.newacc2.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.Properties.Resources.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.reverse.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.success.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.userform.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.userhome.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.userlogin.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.userlogin2.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.csproj.GenerateResource.cache
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.csproj.CoreCompileInputs.cache
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.csproj.CopyComplete
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.exe
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\bin\Debug\PictureBoxAbouAmmar.dll
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.useracc.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v1\orderla\orderla\obj\Debug\orderla.csprojAssemblyReference.cache
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\bin\Debug\orderla.exe.config
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\bin\Debug\orderla.exe
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\bin\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\bin\Debug\PictureBoxAbouAmmar.dll
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.csprojAssemblyReference.cache
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.Form1.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.lost.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.newacc1.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.newacc2.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.Properties.Resources.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.reverse.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.success.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.useracc.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.userform.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.userhome.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.userlogin.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.userlogin2.resources
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.csproj.GenerateResource.cache
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.csproj.CoreCompileInputs.cache
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.csproj.CopyComplete
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.exe
+C:\Users\shehab55\Desktop\Orderla v2\Orderla v2\orderla\orderla\obj\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\bin\Debug\orderla.exe.config
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\bin\Debug\orderla.exe
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\bin\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.csprojAssemblyReference.cache
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.Form1.resources
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.lost.resources
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.newacc1.resources
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.newacc2.resources
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.Properties.Resources.resources
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.reverse.resources
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.success.resources
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.useracc.resources
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.userform.resources
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.userhome.resources
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.userlogin.resources
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.userlogin2.resources
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.csproj.GenerateResource.cache
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.csproj.CoreCompileInputs.cache
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.csproj.CopyComplete
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.exe
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\New folder (3)\Orderla v3\Orderla v2\orderla\orderla\bin\Debug\Bunifu.Core.dll
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\bin\Debug\orderla.exe.config
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\bin\Debug\orderla.exe
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\bin\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\bin\Debug\Bunifu.Core.dll
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.csprojAssemblyReference.cache
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.Form1.resources
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.lost.resources
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.newacc1.resources
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.newacc2.resources
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.Properties.Resources.resources
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.reverse.resources
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.success.resources
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.useracc.resources
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.userform.resources
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.userhome.resources
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.userlogin.resources
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.userlogin2.resources
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.csproj.GenerateResource.cache
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.csproj.CoreCompileInputs.cache
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.csproj.CopyComplete
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.exe
+C:\Users\shehab55\Desktop\orderla v4\Orderla v3\Orderla v2\orderla\orderla\obj\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\orderla V4\orderla\bin\Debug\orderla.exe.config
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.exe
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\orderla V4\orderla\bin\Debug\orderla.exe
+C:\Users\shehab55\Desktop\orderla V4\orderla\bin\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\orderla V4\orderla\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\shehab55\Desktop\orderla V4\orderla\bin\Debug\Bunifu.Core.dll
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.csprojAssemblyReference.cache
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.Form1.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.lost.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.newacc1.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.newacc2.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.Properties.Resources.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.reverse.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.success.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.useracc.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.userform.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.userhome.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.userlogin.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.userlogin2.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.csproj.GenerateResource.cache
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.csproj.CoreCompileInputs.cache
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Debug\orderla.csproj.CopyComplete
+C:\Users\shehab55\Desktop\orderla V5\orderla\bin\Debug\orderla.exe.config
+C:\Users\shehab55\Desktop\orderla V5\orderla\bin\Debug\orderla.exe
+C:\Users\shehab55\Desktop\orderla V5\orderla\bin\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\orderla V5\orderla\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\shehab55\Desktop\orderla V5\orderla\bin\Debug\Bunifu.Core.dll
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.Form1.resources
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.lost.resources
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.newacc1.resources
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.newacc2.resources
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.onwayorders.resources
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.Properties.Resources.resources
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.reverse.resources
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.success.resources
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.useracc.resources
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.userform.resources
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.userhome.resources
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.userlogin.resources
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.userlogin2.resources
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.csproj.GenerateResource.cache
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.csproj.CoreCompileInputs.cache
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.csproj.CopyComplete
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.exe
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.sponsers.resources
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.contactus.resources
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.csprojAssemblyReference.cache
+C:\Users\shehab55\Desktop\orderla V5\orderla\obj\Debug\orderla.bestsell.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\bin\Debug\orderla.exe.config
+C:\Users\shehab55\Desktop\orderla V6\orderla\bin\Debug\orderla.exe
+C:\Users\shehab55\Desktop\orderla V6\orderla\bin\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\orderla V6\orderla\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\shehab55\Desktop\orderla V6\orderla\bin\Debug\Bunifu.Core.dll
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.bestsell.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.contactus.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.feedback.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.Form1.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.lost.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.newacc1.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.newacc2.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.onwayorders.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.Properties.Resources.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.reverse.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.sponsers.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.success.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.useracc.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.userform.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.userhome.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.userlogin.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.userlogin2.resources
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.csproj.GenerateResource.cache
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.csproj.CoreCompileInputs.cache
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.csproj.CopyComplete
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.exe
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\orderla V6\orderla\obj\Debug\orderla.adminform.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\bin\Debug\orderla.exe.config
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.exe
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\orderla V7\orderla\bin\Debug\orderla.exe
+C:\Users\shehab55\Desktop\orderla V7\orderla\bin\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\orderla V7\orderla\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\shehab55\Desktop\orderla V7\orderla\bin\Debug\Bunifu.Core.dll
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.adminform.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.bestsell.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.contactus.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.feedback.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.Form1.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.lost.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.newacc1.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.newacc2.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.onwayorders.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.Properties.Resources.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.reverse.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.sponsers.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.success.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.useracc.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.userform.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.userhome.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.userlogin.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.userlogin2.resources
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.csproj.GenerateResource.cache
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.csproj.CoreCompileInputs.cache
+C:\Users\shehab55\Desktop\orderla V7\orderla\obj\Debug\orderla.csproj.CopyComplete
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.Addcategories.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.addmeal.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.adminform.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.bestsell.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.categories.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.contactus.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.doneorders.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.editcategories.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.editmeal.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.feedback.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.Form1.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.lost.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.meals.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.newacc1.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.newacc2.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.onwayorders.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.Properties.Resources.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.reverse.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.sponsers.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.success.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.useracc.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.userform.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.userhome.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.userlogin.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.userlogin2.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.csproj.GenerateResource.cache
+C:\Users\shehab55\Desktop\orderla V8\orderla\bin\Debug\orderla.exe.config
+C:\Users\shehab55\Desktop\orderla V8\orderla\bin\Debug\orderla.exe
+C:\Users\shehab55\Desktop\orderla V8\orderla\bin\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\orderla V8\orderla\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\shehab55\Desktop\orderla V8\orderla\bin\Debug\Bunifu.Core.dll
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.exe
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.pdb
+C:\Users\shehab55\Desktop\orderla V8\orderla\bin\Debug\MySql.Data.dll
+C:\Users\shehab55\Desktop\orderla V8\orderla\bin\Debug\Google.Protobuf.dll
+C:\Users\shehab55\Desktop\orderla V8\orderla\bin\Debug\MySql.Data.xml
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.csproj.CoreCompileInputs.cache
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.csproj.CopyComplete
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.usercategories.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.csprojAssemblyReference.cache
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.usercategories2.resources
+C:\Users\shehab55\Desktop\orderla V8\orderla\obj\Debug\orderla.usercategories3.resources
+E:\summer_project\orderla V9\orderla\bin\Debug\orderla.exe.config
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.exe
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.pdb
+E:\summer_project\orderla V9\orderla\bin\Debug\orderla.exe
+E:\summer_project\orderla V9\orderla\bin\Debug\orderla.pdb
+E:\summer_project\orderla V9\orderla\bin\Debug\Bunifu.Core.dll
+E:\summer_project\orderla V9\orderla\bin\Debug\Google.Protobuf.dll
+E:\summer_project\orderla V9\orderla\bin\Debug\MySql.Data.xml
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.csprojResolveAssemblyReference.cache
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.Addcategories.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.addmeal.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.adminform.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.bestsell.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.categories.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.contactus.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.doneorders.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.editcategories.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.editmeal.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.feedback.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.Form1.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.lost.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.meals.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.newacc1.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.newacc2.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.onwayorders.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.Properties.Resources.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.reverse.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.sponsers.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.success.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.useracc.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.usercategories.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.usercategories2.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.usercategories3.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.userform.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.userhome.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.userlogin.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.userlogin2.resources
+E:\summer_project\orderla V9\orderla\obj\Debug\orderla.csproj.GenerateResource.Cache
+E:\summer_project\orderla V9.last but not user controll\orderla\bin\Debug\orderla.exe.config
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.exe
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.pdb
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.csprojResolveAssemblyReference.cache
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.Addcategories.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.addmeal.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.adminform.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.bestsell.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.categories.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.contactus.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.doneorders.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.editcategories.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.editmeal.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.feedback.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.Form1.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.lost.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.meals.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.newacc1.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.newacc2.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.onwayorders.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.Properties.Resources.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.reverse.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.sponsers.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.success.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.useracc.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.usercategories.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.usercategories2.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.usercategories3.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.userform.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.userhome.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.userlogin.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.userlogin2.resources
+E:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.csproj.GenerateResource.Cache
+H:\summer_project\orderla V9.last but not user controll\orderla\bin\Debug\orderla.exe.config
+H:\summer_project\orderla V9.last but not user controll\orderla\obj\Debug\orderla.exe
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\bin\Debug\orderla.exe.config
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.exe
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.csprojResolveAssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.Addcategories.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.addmeal.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.adminform.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.bestsell.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.categories.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.contactus.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.doneorders.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.editcategories.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.editmeal.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.feedback.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.Form1.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.lost.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.meals.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.newacc1.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.newacc2.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.onwayorders.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.Properties.Resources.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.reverse.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.sponsers.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.success.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.useracc.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.usercategories.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.usercategories2.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.usercategories3.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.userform.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.userhome.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.userlogin.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.userlogin2.resources
+C:\Users\dell\OneDrive\Desktop\projects\orderla\orderla\obj\Debug\orderla.csproj.GenerateResource.Cache

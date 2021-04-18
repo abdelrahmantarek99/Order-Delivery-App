@@ -1,0 +1,15 @@
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Release\orderla.csprojAssemblyReference.cache
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Release\orderla.Form1.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Release\orderla.lost.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Release\orderla.newacc1.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Release\orderla.newacc2.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Release\orderla.Properties.Resources.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Release\orderla.reverse.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Release\orderla.success.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Release\orderla.useracc.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Release\orderla.userform.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Release\orderla.userhome.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Release\orderla.userlogin.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Release\orderla.userlogin2.resources
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Release\orderla.csproj.GenerateResource.cache
+C:\Users\shehab55\Desktop\orderla V4\orderla\obj\Release\orderla.csproj.CoreCompileInputs.cache
